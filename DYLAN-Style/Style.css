@@ -1,0 +1,387 @@
+@font-face {
+    @font-face {
+        font-family: 'Roboto';
+        src: url('Roboto-ThinItalic-webfont.eot');
+        src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+             url('Roboto-ThinItalic-webfont.woff') format('woff'),
+             url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+             url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg'); (under the Apache Software License). 
+        font-weight: 200;
+        font-style: italic;
+    }
+}
+
+body{
+    background-color: #39003E;
+    font-family: Roboto
+}
+header{
+    padding: 0%;
+    margin: 0%;
+}
+.MainContent{
+    
+.BigImg{
+  width: 1440px;;
+  padding: 100px;
+  margin-top: 100px;
+}
+}
+.img{
+    padding: 100px;
+    margin-top: 100px;
+    width: 90%;
+}
+.Navbutts{
+    margin: 5%;
+}
+.Navigation{
+    margin: 10px;
+    border-radius: 50%;
+    padding: 4% 4%;
+    height: 180px;
+    width: 180px;
+    float: center;
+    transition: height 1s, width 1s ;
+    font-size: medium;
+    align-items: center;
+    font-weight: bold;
+    color: #ffffff;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    
+}
+/*.button-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* make the container fill the height of the page 
+  }*/
+
+
+.Nav1{
+    background-color:#db8981 ;
+    
+}
+.Nav1:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6;
+    background-image: url("AboutMeButtonPicWithRed.png");
+    color: #ffffff;
+
+}
+
+.Nav2{
+    background-color:#d7ae87 ;
+    
+}
+.Nav2:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6;
+    background-image: url("ActivitiesWith.png");
+    color: #ffffff;
+}
+
+
+
+.Nav3{
+    background-color:#FDFD96 ;
+}
+.Nav3:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6;
+    background-image: url("Placeholder.png");
+    color: #ffffff;
+}
+
+.Nav4{
+    background-color:#7db098 ;
+}
+.Nav4:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6;
+    background-image: url("Placeholder.png");
+    color: #ffffff;
+}
+
+.Nav5{
+    background-color:#70b7d1 ;
+}
+.Nav5:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6;
+    background-image: url("Placeholder.png");
+    color: #ffffff;
+}
+
+.Nav6{
+    background-color:#829bd2 ;
+}
+.Nav6:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6;
+    background-image: url("Placeholder.png");
+    color: #ffffff;
+}
+
+.Nav7{
+    background-color:#8078b5;
+}
+.Nav7:hover{
+    height: 210px;
+    width: 210px;
+    color: white;
+    opacity: 0.6; 
+    background-image: url("Placeholder.png");
+    color: #ffffff;
+}
+.container {
+    font-size: 500px;
+    line-height: 200px;
+  }
+  
+  .acthead {
+    color: #ffe234;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 0 3px 1px #000;
+  }
+  
+  .button {
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 100px;
+    text-align: left;
+  }
+  
+  .button-2 {
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 100px;
+  }
+  
+  .button-3 {
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 100px;
+  }
+  
+  .container-2 {
+    display: inline;
+    text-align: center;
+  }
+  
+  .activity-content {
+    width: 100%;
+    margin-right: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #ffe234;
+    text-shadow: 0 1px 1px #000;
+  }
+  
+  .paragraph-2 {
+    display: flex;
+    width: 33%;
+    flex-direction: row;
+  }
+  
+  .div-block {
+    display: flex;
+    padding:10%;
+    
+  }
+  
+  .paragraph-3 {
+    width: 33%;
+    margin-left: 40px;
+  }
+  
+  .activitytzitle {
+    width: 100%;
+    border: 1px solid #BD15C9;
+    color: #ffe234;
+    font-size: 36px;
+    text-shadow: 0 1px 2px #000;
+  }
+  
+  .activitiy2 {
+    width: 33%;
+    border: 1px solid #BD15C9;
+    outline-color: #BD15C9;
+    outline-offset: 0px;
+    outline-style: solid;
+    outline-width: 3px;
+  }
+  
+  .div-block-2 {
+    margin-top: 300px;
+    font-size: 10px;
+    text-align: left;
+  }
+  
+  .righti {
+    overflow: visible;
+    width: 45%;
+    height: 45%;
+    margin-right: 0%;
+    margin-left: 5%;
+  }
+  
+  .heading-3 {
+    display: inline-block;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+  }
+  
+  .rightihobby {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-left: 0%;
+    color: #ffe234;
+    text-shadow: 0 2px 1px #000;
+    border: 4px solid #BD15C9;
+    outline-color: #BD15C9;
+  }
+  
+  .paragraph-4 {
+    width: 50%;
+  }
+  
+  .hobbycontent {
+    display: inline-block;
+    margin-right: 0%;
+    text-align: center;
+    text-shadow: 0 1px 1px #000;
+  }
+  
+  .hobbytextr {
+    display: inline-block;
+    width: 45%;
+    margin-right: 0%;
+    margin-left: 0%;
+    color: #ffe234;
+    font-size: 30px;
+  }
+  
+  .hobbyhead {
+    text-align: center;
+    text-shadow: 0 2px 1px #000;
+    font-size: 45px;
+  }
+  
+  .sectiontitle {
+    color: #ffe234;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 0 4px 1px #000;
+  }
+  
+  .activitiy1 {
+    width: 33%;
+    border: 1px solid #BD15C9;
+    outline-color: #BD15C9;
+    outline-offset: 0px;
+    outline-style: solid;
+    outline-width: 3px;
+  }
+  
+  .activitiy3 {
+    width: 33%;
+    border: 1px solid #BD15C9;
+    outline-color: #BD15C9;
+    outline-offset: 0px;
+    outline-style: solid;
+    outline-width: 3px;
+  }
+  
+  .leftihobby-copy {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-right: 0%;
+    border: 5px solid #BD15C9;
+    border-radius: 0px;
+  }
+  
+  .hobbytextl {
+    display: inline-block;
+    width: 45%;
+    margin-right: 0%;
+    margin-left: 5%;
+    font-size: 30px;
+  }
+  
+  .lefti {
+    overflow: visible;
+    width: 45%;
+    height: 45%;
+    margin-right: 5%;
+    margin-left: 0%;
+  }
+  
+  .activimage {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 90%;
+  }
+  
+  .image-2 {
+    margin-top: 5%;
+    width: 90%;
+  }
+  
+  .image-3 {
+    margin-top: 5%;
+  }
+  
+  .div-block-3 {
+    margin-bottom: 100px;
+  }
+  
+  .div-block-4 {
+    width: 30%;
+  }
+  
+  .intrests {
+    margin-bottom: 50px;
+  }
+  
+  .interestbox {
+    display: inline-block;
+    width: 32%;
+    border: 4px solid #BD15C9;
+  }
+  
+  .intresttext {
+    color: #ffe234;
+    font-size: 28px;
+    text-align: center;
+    text-shadow: 0 2px 1px #000;
+  }
+  
+  .intrest-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+
+
+  }
